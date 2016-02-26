@@ -1,0 +1,12 @@
+# Django
+django>=1.9
+djangorestframework>=3.3
+
+# CORS
+django-cors-headers
+
+# bleach, securize HTML
+bleach
+
+# for ImageField
+Pillow
